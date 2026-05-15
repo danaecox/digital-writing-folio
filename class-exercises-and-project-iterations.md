@@ -1,1 +1,33 @@
 
+In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them. 
+
+Map out rooms 
+Design and specify characters 
+Start coding- create title page
+
+ Last week you defined three tasks you needed to do. How did these go? Did you complete them and if so where did they lead you in your development process? If not, why not? Is this a time management issue or did something else get in the way? Do you need to check in with Jenny or Lucinda about an extension? If so let us know now. 
+
+I was able to map my rooms out, gaining a deeper understanding of what the task ahead of me will look like. I found this mapping really put me at ease as I could visualise my final project as a series of smaller tasks that felt much more accomplishable and digestible in line with my limited set of coding skills. However, I found when I went back to my mapping to use it as a guide for my coding, I had omitted a fair amount of rooms that I would realistically require to provide my reader with context for their role within the game and each character’s story. Moving forward I need to really flesh out each detail I need to include in my coding to ensure that I don’t miss anything and am spending my time productively.   
+The character creation and finalisation was quite a seamless process for me. I found that after generating a number of ideas of potential heartbreak material, certain personalities and little cartoon faces appeared in my mind in accordance with each one. I wanted to make Jack, Ari, and Tyler each different people at different stages in their life, only really united by the tram and their broken hearts. I’m not very skilled when it comes to drawing, but I was very content with how the icons turned out as I wanted them to look simple and cartoonish, very much like sketches from an untrained artist. 
+I knew from looking at both my peers and past students work that I wanted to create my website in visual studio code html, as opposed to twine, as while I think it’s a bit more complex, I think it would give me a bit more freedom creatively and aesthetically. I found the software initially quite confronting and specific as I had only previously used it for the coding playground in which the bones of the codes were completely set out for me. I used AI to write my codes, I found it took a bit to understand the most efficient way to prompt it, and it took a lot of checking and tweaking small details, but I was impressed how quickly I was able to pull the title and character pages together. 
+
+
+Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step. 
+
+My most recent reflection and iteration saw the formatting of the textual content of my piece shifting. Initially I had the idea that all of my characters' stories should be told in the form of a conversation between them and the character of the tram passenger that the user of my website will assume. This way I thought the sense of consistency would allow for a more narrative and digestible story to be told, however, when it came to roughly concept mapping what exactly each characters dialogue with the user would be, I found myself very quickly getting bored of the sheer abundance of dialogue required, which would all likely be very visually similar for each character. Instead, I started thinking of other, more diverse and realistic ways in which their broken hearts could be expressed. I landed on instagram stories for Jack and text messages for Ari, leaving Tyler’s as dialogue with a tram passenger. To ensure the story made sense, this meant that the perspective my reader adopts will have to switch each time they focus on a new character, which I think could work quite swiftly with a simple sentence or two each time describing the perspective switch.
+
+
+What is the purpose of your piece? Was there an inspiration that brought it about?
+What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+
+My piece is more inspired by real life human interactions, relationships, and the limitations that accompany them as opposed to any existing electronic works that I’ve explored. That being said, I want my website to have elements that feel profoundly technological, which is why I’ve relied on existing web forms such as instagram stories and text messages to reinforce this idea of social limitations on connection as the user cannot realistically help these men by playing as a character who is a stranger to them. 
+As a piece of literature I don’t have an incredibly potent moral intention, I simply want to highlight the profoundly personal and unique ways matters of the heart differentiate from one person to another and how the exclusionary and individualistic mindset our culture adopts can at times make it hard to acknowledge the ways love, value, and heartbreak can differentiate from person to person. 
+Visually I want my piece to look quite simple, largely black and white with red elements and featuring hand drawn motifs. I want the screen to look quite sparse, encouraging the users to create their own image in their mind. I’m torn on whether I’d like to blend real life images and sounds of the tram or the characters lives in with the illustrated images to sort of walk the line between realism and fiction, or if i’d like to keep the aesthetics limited to hand drawn doodles. I know that some of my elements such as the instagram stories and emojis in Jack's story won’t be illustrated, so I think the slight blending of the two could continue throughout the piece.
+
+
+
+
+#THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
+In terms of the workshopping done in class today, I only shared a small amount of my literary work as not much of my narrative has been formatted in my coding yet. I found through this process of sharing that I don't have as deep of an understanding of my own plot as I'd like to have at this point. Each of my 
